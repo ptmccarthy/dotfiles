@@ -18,3 +18,5 @@ export EDITOR=vim
 # aliases
 alias ls='ls -GFh'
 alias ll='ls -alGFh'
+alias ride='/usr/local/bin/ride.sh'
+
