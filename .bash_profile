@@ -20,3 +20,5 @@ alias ls='ls -GFh'
 alias ll='ls -alGFh'
 alias ride='/usr/local/bin/ride.sh'
 
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
