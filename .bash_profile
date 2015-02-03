@@ -22,3 +22,7 @@ alias ride='/usr/local/bin/ride.sh'
 
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+
+source /Users/pmccarthy/.oh-my-git/prompt.sh
