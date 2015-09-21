@@ -5,6 +5,7 @@ fi
 
 # terminal colors
 export CLICOLOR=1
+export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
 
 # colored man pages
 export LESS_TERMCAP_mb=$'\E[01;31m'      # begin blinking
