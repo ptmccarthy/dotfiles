@@ -22,3 +22,11 @@ tmp
 .heroku
 .rnd
 .recently-used
+.DS_STORE
+.bash_history
+.gitconfig
+.WebStorm10
+.CFUserTextEncoding
+.node_repl_history
+.ovftool.ssldb
+.viminfo
