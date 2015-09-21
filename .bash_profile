@@ -4,9 +4,7 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # terminal colors
-export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
 export CLICOLOR=1
-export LSCOLORS=ExFxBxDxCxegedabagacad
 
 # colored man pages
 export LESS_TERMCAP_mb=$'\E[01;31m'      # begin blinking
@@ -29,4 +27,5 @@ alias ride='/usr/local/bin/ride.sh'
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
 # load oh-my-git
-source /Users/pmccarthy/.oh-my-git/prompt.sh
+source "$HOME/.oh-my-git/prompt.sh"
+
