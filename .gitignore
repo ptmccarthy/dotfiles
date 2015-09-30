@@ -31,3 +31,5 @@ tmp
 .ovftool.ssldb
 .viminfo
 .config
+.oracle_jre_usage
+
