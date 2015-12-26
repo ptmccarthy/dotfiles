@@ -34,4 +34,5 @@ tmp
 .config
 .oracle_jre_usage
 .atom
-
+.kdiff3rc
+.vagrant.d
