@@ -10,6 +10,7 @@ Public
 VirtualBox*
 tmp
 .Trash
+.swp
 .m2
 .node-gyp
 .npm
@@ -36,3 +37,5 @@ tmp
 .atom
 .kdiff3rc
 .vagrant.d
+.sqlite_history
+
