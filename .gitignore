@@ -38,4 +38,5 @@ tmp
 .kdiff3rc
 .vagrant.d
 .sqlite_history
+.docker
 
