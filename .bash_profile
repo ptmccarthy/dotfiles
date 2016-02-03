@@ -29,3 +29,5 @@ alias ll='ls -alGFh'
 # load oh-my-git
 source "$HOME/.oh-my-git/prompt.sh"
 
+export ONS_MTF_CONFIGURATION=/Users/patrickmccarthy/Documents/boeing/777x.mtf/src/mtf-core/src/main/resources/mtf/config
+
