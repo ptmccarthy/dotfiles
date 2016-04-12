@@ -40,3 +40,5 @@ tmp
 .sqlite_history
 .docker
 .fctsslvpnhistory
+.electron
+
