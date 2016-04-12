@@ -22,7 +22,7 @@ export EDITOR=vim
 # aliases
 alias ls='ls -GFh'
 alias ll='ls -alGFh'
-
+alias netbeans='/Applications/NetBeans/NetBeans\ 8.1.app/Contents/MacOS/netbeans &'
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
