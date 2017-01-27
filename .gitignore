@@ -43,3 +43,7 @@ tmp
 .electron
 .homebrew_analytics_user_uuid
 .pylint.d
+
+# Exceptions
+.ssh/config
+
