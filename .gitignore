@@ -43,6 +43,8 @@ tmp
 .electron
 .homebrew_analytics_user_uuid
 .pylint.d
+.lesshst
+.vscode
 
 # Exceptions
 .ssh/config
