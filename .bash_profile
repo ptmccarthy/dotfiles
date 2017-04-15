@@ -35,4 +35,4 @@ if [ -f ~/.git-completion.bash ]; then
 fi
 
 export ONS_MTF_CONFIGURATION=/Users/patrickmccarthy/Documents/boeing/777x.mtf/src/mtf-core/src/main/resources/mtf/config
-
+export ONS_ETB_CONFIGURATION=/Users/patrickmccarthy/Documents/boeing/etbx/src/service/src/main/resources/etb/config 
