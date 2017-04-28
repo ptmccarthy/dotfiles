@@ -14,6 +14,7 @@ tmp
 .m2
 .node-gyp
 .npm
+.nvm
 .rvm
 .ssh
 .gem
