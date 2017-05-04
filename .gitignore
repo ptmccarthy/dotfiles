@@ -46,6 +46,7 @@ tmp
 .pylint.d
 .lesshst
 .vscode
+.v8flags*
 
 # Exceptions
 .ssh/config
