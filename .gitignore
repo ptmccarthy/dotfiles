@@ -47,6 +47,7 @@ tmp
 .lesshst
 .vscode
 .v8flags*
+.subversion
 
 # Exceptions
 .ssh/config
