@@ -1,0 +1,18 @@
+[push]
+  default = simple
+[user]
+  name = Patrick McCarthy
+  email = p.t.mccarthy@gmail.com
+[merge]
+	tool = kdiff3
+[mergetool.wstorm]
+  cmd = /usr/local/bin/wstorm merge "$LOCAL" "$REMOTE" "$BASE" "$MERGED"
+
+[log]
+  decorate = short
+
+[alias]
+  lg = log --color --pretty=format:'%C(auto)%h %Cred %<(12,trunc)%an %Creset%C(auto)%s %Cgreen(Commit: %cr, Authored: %ar) %Creset%C(auto)%d'  
+
+[credential]
+	helper = osxkeychain

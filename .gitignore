@@ -27,7 +27,6 @@ tmp
 .DS_STORE
 .bash_history
 .bash_sessions
-.gitconfig
 .WebStorm10
 .CFUserTextEncoding
 .node_repl_history
