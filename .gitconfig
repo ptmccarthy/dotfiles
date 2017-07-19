@@ -12,7 +12,8 @@
   decorate = short
 
 [alias]
-  lg = log --color --pretty=format:'%C(auto)%h %Cred %<(12,trunc)%an %Creset%C(auto)%s %Cgreen(Commit: %cr, Authored: %ar) %Creset%C(auto)%d'  
+  diffc = diff --cached
+  lg = log --color --pretty=format:'%C(auto)%h %Cred %<(12,trunc)%an %Creset%C(auto)%s %Cgreen(Commit: %cr, Authored: %ar) %Creset%C(auto)%d'
 
 [credential]
 	helper = osxkeychain
