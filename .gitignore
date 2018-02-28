@@ -47,6 +47,7 @@ tmp
 .vscode
 .v8flags*
 .subversion
+.skipbuddy
 
 # Exceptions
 .ssh/config
