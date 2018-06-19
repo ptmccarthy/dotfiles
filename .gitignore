@@ -48,6 +48,7 @@ tmp
 .v8flags*
 .subversion
 .skipbuddy
+.psql_history
 
 # Exceptions
 .ssh/config
