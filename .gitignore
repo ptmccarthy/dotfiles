@@ -49,6 +49,7 @@ tmp
 .subversion
 .skipbuddy
 .psql_history
+.zoomus
 
 # Exceptions
 .ssh/config
