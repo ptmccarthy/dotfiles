@@ -50,6 +50,8 @@ tmp
 .skipbuddy
 .psql_history
 .zoomus
+.cisco
+.anyconnect
 
 # Exceptions
 .ssh/config
