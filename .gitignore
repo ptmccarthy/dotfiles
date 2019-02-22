@@ -2,6 +2,8 @@ Applications
 Desktop
 Documents
 Downloads
+Dropbox
+Google Drive
 Library
 Movies
 Music
@@ -9,17 +11,21 @@ Pictures
 Public
 VirtualBox*
 tmp
+.aws
 .Trash
 .swp
+.local
 .m2
 .node-gyp
 .npm
 .nvm
 .rvm
 .ssh
+.tooling
 .gem
 .cups
 .bro
+.dropbox
 .dbshell
 .heroku
 .rnd
